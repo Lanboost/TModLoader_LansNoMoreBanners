@@ -1,1 +1,1 @@
-No More Banners is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+Removes all banners from inventory on pickup, no more inventory clutter!
