@@ -7,7 +7,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace NoMoreBanners
+namespace LansNoMoreBanners
 {
     class NoMoreBannersGlobalItem : GlobalItem
     {

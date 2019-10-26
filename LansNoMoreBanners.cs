@@ -1,7 +1,7 @@
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace NoMoreBanners
+namespace LansNoMoreBanners
 {
     public class NoMoreBanners : Mod
     {
