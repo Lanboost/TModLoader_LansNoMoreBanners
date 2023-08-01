@@ -10,7 +10,7 @@ namespace LansNoMoreBanners
         }
 
 
-        public override void AddRecipeGroups()
+        public override void AddRecipeGroups()/* tModPorter Note: Removed. Use ModSystem.AddRecipeGroups */
         {
             for (int i = 0; i < ItemID.Sets.KillsToBanner.Length; i++)
             {

@@ -1,6 +1,6 @@
 displayName = Lan's No More Banners
 author = Lanboost
-version = 2022.07.06
+version = 2023.08.01.1
 includePDB = true
 includeSource = true
 homepage = https://github.com/Lanboost/TModLoader_LansNoMoreBanners
